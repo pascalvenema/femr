@@ -8,3 +8,5 @@ ignore/*
 tutorials/trash
 tutorials/tmp_trainer
 _version.py
+dist/femr-0.2.3.1.tar.gz
+dist/femr-0.2.3.1-py3-none-any.whl
