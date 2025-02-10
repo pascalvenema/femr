@@ -25,7 +25,7 @@ dependencies = [
     "dill >= 0.3.7",
 ]
 requires-python=">3.9"
-dynamic = ["version"]
+dynamic = []
 
 [project.scripts]
 
